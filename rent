@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0">
+   <meta name="viewport" content=" initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+   
+   
+   
+    <title>rent list</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+    
+<link rel="stylesheet" href="Index.css">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Fredericka+the+Great&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Underdog&display=swap');
+  
+      h2{
+        font-family: "Underdog", system-ui;
+      }
+      .footerlast{
+      text-align: center;
+    }
+ff{
+      color: #03eaff;
+    }
+bb{
+      color:#ff03e2 ;
+    }
+      
+      
+      .img56{
+        height:200px;
+        width: 96%;
+      }
+      .elements{
+      text-align: center;
+      margin-top: 100px;
+      }
+      ti{
+        font-size: 2rem;
+        color: #765985;
+      }
+      .navber{
+  margin-top: 0px;
+  width: 100%;
+  height: 65px;
+  position: fixed; 
+  color: white;
+  background: white;
+  border: 2px solid;
+  border-left-width: 0;
+  border-top-width: 8px;
+  border-top-color:#00B6C1;
+  box-shadow: 0px 2px #f5f5f5;
+  justify-content:space-between;
+}
+    .body1{
+        text-align: left;
+        font-size: 1.3rem;
+      }  
+     
+      
+      in{
+        font-size: 2rem;
+        color: #768650;
+      }
+      mm{
+        font-size: 1.5rem;
+        color:#4287f5 ;
+      }
+      .ddd{
+        color: green;
+        font-size: 1.2rem;
+      }
+      
+    </style>
+</head>
+<body>
+  <header class="headd">
+   <div class="navber">
+     
+       <div>
+       <img class="img1" src="Tttt.png">
+       <img class="img4" src="Tarrr.png">
+       <j>usa</j>
+       </div>
+      
+      <div>
+         <h1 class="header">Rent Rent Rent</h1>
+         <p>home for rent <d>usa</d><b>.</b></p>
+       </div>
+         
+         <div>
+        <img onclick="rr()" class="img2" src="Tt.png">
+        <img onclick="rtr()" id="aa"class="img3" src="Tar.png">
+         </div>
+         
+     </div>      
+         
+   </header>
+  
+   
+   
+   <br>
+  <div id="qq" class="navbers">
+    <a href="home"><h1 onclick="rtr()" class="home">Home</h1></a>
+    <a href="rent"><h1 onclick="rtr()" class="home">Rents</h1></a>
+    <a href="contact"><h1 onclick="rtr()" class="home">Contact</h1></a>
+  </div>
+<h2 style="font-family:Underdog, system-ui;">welcome to our rental<br>
+service website</h2>
+   <img class="img5"src="Tarek.jpg">
+   <p class="body1">
+  <b>  Find Your Ideal Home For Rent Under This Page ! <i class="fas fa-arrow-down"></i> <i class="fas fa-arrow-down"></i></b>
+  </p>
+   
+   
+    <div class="elements">
+     <ti>Rent 2 Own</ti>
+     <img class="img56" src="Tarek10.jpg">
+     <br>
+     
+     <in>2 bed & 1 bathroom</in>
+     <br>
+       <in>399$/month</in>
+       <br>
+       <mm>for more details</mm>
+      <a href="https://www.chd93jds.com/DDBJJH3/2J2CRS/"><button>click here</button></a> 
+   </div>
+   
+   <div class="elements">
+     <ti>Rent To Own Club</ti>
+     <img class="img56" src="Tarekhh.jpg">
+     <br>
+     
+     <in>3 bed & 2 bathroom</in>
+     <br>
+       <in>499$/month</in>
+       <br>
+       <mm>for more details</mm>
+      <a href="https://www.chd93jds.com/DDBJJH3/3QQG7/"><button>click here</button></a> 
+   </div>
+   
+   
+   
+   
+   <div class="elements">
+     <ti>Rent 2 Own - V2</ti>
+     <img class="img56" src="Tarek8.jpg">
+     <br>
+     
+     <in>2 bed & 2 bathroom</in>
+     <br>
+       <in>399$/month</in>
+       <br>
+       <mm>for more details</mm>
+      <a href="https://www.chd93jds.com/DDBJJH3/2KF8JF/"><button>click here</button></a> 
+   </div>
+   
+     <div class="elements">
+     <ti>Zip-Foreclosures.com - $1 trial</ti>
+     <img class="img56" src="Tarek9.jpg">
+     <br>
+     
+     <in>4 bed & 3 bathroom</in>
+     <br>
+       <in>599$/month</in>
+       <br>
+       <mm>for more details</mm>
+      <a href="https://www.chd93jds.com/DDBJJH3/2TQJZ3/"><button>click here</button></a> 
+   </div>
+   <br>
+   <br>
+   <aar>back to<a href="home" class="ddd">home page</a></aar>
+   
+   
+   <footet class="footer">
+     
+     <div class="footerbody">
+      
+       <br>
+       <br>
+        <div class="social-icons">
+    <a href="https://youtube.com/@Alls_here_Official_what_need?si=yBhVn7H5UNTqiOp0"><i class="fab fa-youtube"></i></a>
+    <a href="#"><i class="fab fa-whatsapp"></i></a>
+    <a href="https://facebook.com/groups/392764756809529/"><i class="fab fa-facebook"></i></a>
+    <a href="#"><i class="fab fa-twitter"></i></a>
+    <a href="#"><i class="fab fa-skype"></i></a>
+  </div>
+   <br>
+       <br>
+       <h8>Contact:</h8>
+       <br>
+       <br>
+       <email style="color:white">Email:<a style="color:white;" href="mailto:needinfo590@gmail.com">needinfo590@gmail.com</a></email>
+        <br>
+     <br>
+      <br>
+       <br>
+        <br>
+     
+     <br>
+
+<div class="footerlast">
+       
+       <bb>2024</bb>
+       <br>
+       <ff>all rights reserved</ff>
+       
+       
+     </div>
+     
+     
+  
+     </div>
+
+   </footet>
+   <script>
+   var ryr = document.getElementById("qq");
+     var rrr = document.getElementById("aa");
+     
+     function rr() {
+       ryr.classList.add("add");
+       rrr.classList.add("add");
+     };
+     function rtr() {
+       ryr.classList.remove("add");
+       rrr.classList.remove("add");
+     };
+   </script>
+   
+   
+</body>
+</html>

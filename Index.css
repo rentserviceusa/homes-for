@@ -1,0 +1,255 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+
+
+
+
+ @import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Fredericka+the+Great&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Underdog&display=swap');
+  
+    *{
+      margin: 0;
+      padding: 0;
+    }
+    
+    body {
+  font-family: Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+  background:;
+  height: 1000px;
+}
+.navber{
+  margin-top: 0px;
+  width: 100%;
+  height: 65px;
+  position: fixed; 
+  color: white;
+  background: white;
+  border: 2px solid;
+  border-left-width: 0;
+  border-top-width: 8px;
+  border-top-color:#00B6C1;
+  box-shadow: 0px 2px #f5f5f5;
+  justify-content:space-between;
+}
+i{
+  color: green;
+}
+p{
+  color: blue;
+  margin-top: -20px;
+  margin-left: 105px;
+  
+}
+.header{
+  color:red;
+  margin-left:-10px;
+  margin-top:-45px;
+  font-size: 1.4rem;
+  text-align: center;
+  font-family: "Figtree", sans-serif;
+}
+.img1{
+  margin-left:15px;
+  margin-top:17px;
+  background:white;
+  height: 35px;
+  width:60px;
+  z-index:2;
+}
+.img4{
+  margin-left:-80px;
+  margin-top:1px;
+  background:white;
+  height:60px;
+  width:40px;
+  position: absolute;
+  z-index: -1;
+}
+d{
+  color:#ff0aeb;
+  font-size: 1.3rem;
+}
+.img2{
+  height: 30px;
+  width: 34px;
+
+  position: absolute;
+  margin-left: 295px;
+  margin-top: -54px;
+  display: ;
+}
+
+.img3{
+  height: 30px;
+  width: 34px;
+
+  position: absolute;
+  margin-left: 295px;
+  margin-top: -54px;
+  display: none;
+}
+.navbers{
+  margin-top: 61px;
+  margin-left: 100px;
+  height: 150px;
+  width: 250px;
+  background: #f5f5f5;
+  border-radius:20px;
+  line-height: 10px;
+  position: fixed;
+display: none;
+transition: 1s;
+}
+.add{
+  display:block;
+}
+a{
+  margin-left:15px;
+  text-decoration: none;
+  color: black;
+  
+}
+j{
+  
+  font-size: 1rem;
+  color: #078c0b;
+  margin-left: -65px;
+}
+h2{
+font-family: "Underdog", system-ui;
+  color:#0da;
+  margin-top: 70px;
+  margin-left: px;
+  text-align: center;
+  
+}
+
+h3{
+  color:#000;
+  margin-left: px;
+  margin-top: 0px;
+  text-align: center;
+}
+b{
+  
+  color: red;
+}
+.home{
+  border: 1px solid;
+  height:20px;
+  padding-top: 9px;
+  font-size: 1.2rem;
+  line-height: 10px;
+  margin-left: ;
+  line-height: -100;;
+  margin-top: -2px;
+  padding-left: 10px;
+  border-radius: 10px;
+  border: none;
+}
+.img5{
+  height:250px ;
+  width:100% ;
+  text-align: center;
+  background: 
+}
+.img6{
+  height:300px ;
+  width:50% ;
+  text-align: center;
+}
+h4{
+  font-size: 1.1rem;
+  color: green;
+  margin-top: -10px;
+}
+h5{
+  font-size: 1.1rem;
+  color: #4287f5;
+  margin-top: -10px;
+}
+h6{
+  color: #f5b342;
+  font-size: 1.1rem;
+  margin-top: -10px;
+  position absulute;
+}
+
+u{
+  color: #f542da;
+}
+ff{
+      color: #03eaff;
+    }
+    bb{
+      color:#ff03e2 ;
+    }
+
+
+dd{
+  color: #76f5f5;
+  left: 55px;
+  position: absolute;
+}
+.footerbody{
+  height: 400px;
+  margin-top: 50px;
+  font-size: 1.4rem;
+  text-align: center;
+  border: 1px solid;
+  border-top-width:10px;
+  border-top-color: red;
+  width:100%;
+  background: #192136;
+  
+}
+.fa-youtube{
+  color: red;
+  font-size: 2rem;
+}
+.fa-whatsapp{
+  color:#37D852 ;
+  font-size: 2rem;
+}
+.fa-facebook{
+  color:#1676ef ;
+  font-size: 2rem;
+}
+.fa-twitter{
+  color:#0088cc ;
+  font-size: 2rem;;
+}
+.fa-skype{
+  color: #0096d7;
+  font-size: 2rem;
+}
+.social-icons {
+  
+}
+button{
+  font-size: 1.2rem;
+  border-radius: 8px;
+}
+h8{
+  color:#fc8484 ;
+  text-decoration: underline;
+  margin-top: 30px;
+}
+a:hover{
+  color: #00B6C1;
+}
+.body1{
+  padding:10px;
+  margin-left: 0px;
+}
+.footerlast{
+      text-align: center;
+    }
+ff{
+      color: #03eaff;
+    }
+bb{
+      color:#ff03e2 ;
+    }
